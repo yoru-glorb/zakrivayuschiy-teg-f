@@ -1,1 +1,1 @@
-https://github.com/yoru-glorb/zakrivayuschiy-teg-f.git
+https://yoru-glorb.github.io/zakrivayuschiy-teg-f/
