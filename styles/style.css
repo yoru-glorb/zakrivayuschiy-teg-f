@@ -200,7 +200,6 @@
   fill: white;
   color: #fff;
   background-color: transparent;
-  mix-blend-mode: difference;
 }
 
 .decorated_button {
@@ -219,7 +218,7 @@
 .save_button {
   width: 340px;
   min-height: 55px;
-  gap: 4px;
+  gap: 10px;
   display: flex;
 }
 
@@ -287,6 +286,7 @@ body:has(.floppy_dialog[open]) {
   inline-size: 100%;
   min-block-size: 38px;
 }
+
 
 .dialog_label {
   align-self: flex-start;
@@ -378,3 +378,4 @@ body:has(.floppy_dialog[open]) {
     margin-bottom: 4px;
   }
 }
+
