@@ -202,6 +202,12 @@
   background-color: transparent;
 }
 
+.floppy_svg{
+  filter: invert(1);
+  mix-blend-mode: difference;
+}
+
+
 .decorated_button {
     align-items: center;
     background-color: white;
@@ -236,6 +242,7 @@
   transition: translate 0.5s ease-in-out;
   translate: -100%;
 }
+
 
 .decorated_button:focus-visible {
   outline: 2px solid var(--color);
